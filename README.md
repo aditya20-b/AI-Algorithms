@@ -135,8 +135,8 @@ console.log('Alpha-Beta Pruning:', alphaBetaPruning(gameState, 3, -Infinity, Inf
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/graph-algorithm-solver.git
-   cd graph-algorithm-solver
+   git clone https://github.com/aditya20-b/AI-Algorithms.git
+   cd AI-Algorithms
    ```
 
 2. Install dependencies:
